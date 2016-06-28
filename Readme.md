@@ -1,3 +1,0 @@
-
-## Sample code 
-## CI-jenkins
